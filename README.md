@@ -1,0 +1,2 @@
+# SeaSharpie
+Discord.NET Bot
