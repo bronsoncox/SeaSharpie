@@ -1,0 +1,12 @@
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\SeaSharpie.deps.json
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\SeaSharpie.runtimeconfig.json
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\SeaSharpie.runtimeconfig.dev.json
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\SeaSharpie.dll
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\SeaSharpie.csprojAssemblyReference.cache
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\SeaSharpie.csproj.CoreCompileInputs.cache
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\SeaSharpie.AssemblyInfoInputs.cache
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\SeaSharpie.AssemblyInfo.cs
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\SeaSharpie.pdb
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\SeaSharpie.dll
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\SeaSharpie.pdb
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\Settings.job

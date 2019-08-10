@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Projects/src/github/SeaSharpie/SeaSharpie/SeaSharpie.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Projects/src/github/SeaSharpie/SeaSharpie/SeaSharpie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Projects/src/github/SeaSharpie/SeaSharpie/SeaSharpie.csproj",
+        "projectName": "SeaSharpie",
+        "projectPath": "/Volumes/Projects/src/github/SeaSharpie/SeaSharpie/SeaSharpie.csproj",
+        "packagesPath": "/Users/bronze/.nuget/packages/",
+        "outputPath": "/Volumes/Projects/src/github/SeaSharpie/SeaSharpie/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bronze/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

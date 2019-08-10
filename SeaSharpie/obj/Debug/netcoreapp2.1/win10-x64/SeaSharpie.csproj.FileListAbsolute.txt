@@ -1,0 +1,14 @@
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\win10-x64\SeaSharpie.exe
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\win10-x64\SeaSharpie.deps.json
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\win10-x64\SeaSharpie.runtimeconfig.json
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\win10-x64\SeaSharpie.runtimeconfig.dev.json
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\win10-x64\SeaSharpie.dll
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\bin\Debug\netcoreapp2.1\win10-x64\SeaSharpie.pdb
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\win10-x64\SeaSharpie.csprojAssemblyReference.cache
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\win10-x64\SeaSharpie.csproj.CoreCompileInputs.cache
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\win10-x64\SeaSharpie.AssemblyInfoInputs.cache
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\win10-x64\SeaSharpie.AssemblyInfo.cs
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\win10-x64\SeaSharpie.dll
+C:\Users\coxb\source\repos\SeaSharpie\SeaSharpie\obj\Debug\netcoreapp2.1\win10-x64\SeaSharpie.pdb
